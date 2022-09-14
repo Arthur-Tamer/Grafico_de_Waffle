@@ -2,11 +2,11 @@
 <p align="center">
   <img src="banner.jpeg" >
 
-# Análise dos Dados do Airbnb — Área Metropolitana de Lisboa
+# Visualização de dados python: Gráfico de Waffle
 
-Neste projeto utilizei um *dataset* resumido do [Airbnb](http://insideairbnb.com/get-the-data.html) para realizar uma análise exploratória dos dados com python.
+Neste projeto utilizei uma biblioteca para realizar a criação e manipulação de gráficos de waffle com python.
 
-Caso tenha interesse, publiquei um artigo a respeito deste projeto no [Medium](https://fabiocceruti.medium.com/an%C3%A1lise-dos-dados-do-airbnb-da-cidade-de-lisboa-55cbfb503fbd).
+Caso tenha interesse, publiquei um artigo a respeito deste tutorial no [Medium](https://medium.com/@arthurtamer.h/visualiza%C3%A7%C3%A3o-de-dados-em-python-gr%C3%A1fico-de-waffle-4873bb9167e3).
 
 
 Entre em contacto em caso de dúvida. Estou sempre à disposição.
