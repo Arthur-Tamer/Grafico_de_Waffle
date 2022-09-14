@@ -4,7 +4,7 @@
 
 # Visualização de dados python: Gráfico de Waffle
 
-Neste projeto utilizei a biblioteca [pywaffle](https://pywaffle.readthedocs.io/en/latest/) para realizar a criação e manipulação de gráficos de waffle com python.
+Neste [projeto](https://bit.ly/Grafico_de_Waffle_GitHub) utilizei a biblioteca [pywaffle](https://pywaffle.readthedocs.io/en/latest/) para realizar a criação e manipulação de gráficos de waffle com python.
 
 Caso tenha interesse, publiquei um artigo a respeito deste tutorial no [Medium](https://bit.ly/Grafico_de_Waffle_GitHub3).
 
