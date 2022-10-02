@@ -15,4 +15,6 @@ Entre em contacto em caso de dúvida. Estou sempre à disposição.
 
 Obrigado!
 
------------------------------------------------------
+<p align="center">
+  <img src="Gráfico de Waffle.png" >
+  -----------------------------------------------------
